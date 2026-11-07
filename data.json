@@ -1,0 +1,165 @@
+{
+    "personal": {
+        "name": "Bhagyashree kolihal",
+        "role": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHXyQ56E0zmnVEmXKu5f2aU0s6dGrkUhozgWX5D1EGw&s=10",
+        "resume": "assets/resume.pdf",
+        "introduction": "Hello! I am Bhagyashree kolihal, a passionate BCA first-year student interested in web development, programming and modern technologies. I enjoy learning new skills and building creative projects.",
+        "careerGoal": "To become a skilled Full Stack Developer and build innovative digital solutions.",
+        "email": "rahulsharma@gmail.com",
+        "phone": "+91 9876543210",
+        "location": "Mumbai, Maharashtra, India",
+        "footerText": "Aspiring Web Developer | BCA Student"
+    },
+
+    "about": {
+        "title": "A Little About Me",
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in computer science, web development and software programming. During my academic journey, I am developing my knowledge of HTML, CSS, JavaScript, Bootstrap, C and C++. My goal is to continuously improve my technical abilities, gain practical experience and contribute to real-world projects. I believe in learning by doing and exploring new technologies."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "level": 85
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "level": 75
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "level": 55
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "level": 70
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "level": 65
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-filetype-cpp",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "assets/project1.jpg",
+            "description": "A responsive personal portfolio website created to showcase my skills, education, projects and achievements.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "assets/project2.jpg",
+            "description": "A simple student management project designed to organize student details and academic information.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "assets/project3.jpg",
+            "description": "A simple and attractive calculator application that performs basic mathematical operations.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "College Landing Page",
+            "image": "assets/project1.jpg",
+            "description": "A responsive college landing page featuring admission details, courses and college information.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap 5"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "P C Jabin BCA College",
+            "semester": "First Semester",
+            "year": "2026 - 2029",
+            "status": "Currently Pursuing"
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "Giants school",
+            "semester": "Completed",
+            "year": "2025 - 2026",
+            "status": "Completed"
+        },
+        {
+            "course": "Secondary School Education (10th)",
+            "college": "samrth School",
+            "semester": "Completed",
+            "year": "2023 - 2024",
+            "status": "Completed"
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Introduction to HTML and CSS",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Web Development Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        }
+    ],
+
+    "social": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "link": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "link": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "link": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi bi-facebook",
+            "link": "https://www.facebook.com/"
+        }
+    ]
+}
